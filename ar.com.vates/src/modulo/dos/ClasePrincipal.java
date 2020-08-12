@@ -8,7 +8,7 @@ class ClasePrincipal {
         double valorDouble = 169.7007D;
 
         /*
-        Precedencia: mismo orden de precedencia se evalua de IZQUIERDA A DERECHA.
+        nuevo
          */
 
         double resultadoDeLaOperacion = 2 + 3 * 5 - 8 / 4;
